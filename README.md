@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @addevin
 - 👀 I’m interested in working on backend
-- 🌱 I’m currently learning MURN Stack
+- 🌱 I’m currently learning MEAN Stack
 - 💞️ I’m looking to collaborate on myself xD
 - 📫 How to reach me : why? 🤔
 
